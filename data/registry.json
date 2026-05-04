@@ -1,0 +1,13 @@
+{
+  "01": {"name": "Update & Upgrade", "cmd": "apt update && apt upgrade -y"},
+  "02": {"name": "Phishing Tool", "cmd": "git clone https://github.com/htr-tech/zphisher"},
+  "03": {"name": "WebCam Hack", "cmd": "git clone https://github.com/thelinuxchoice/saycheese"},
+  "04": {"name": "User Find", "cmd": "pip install sherlock"},
+  "05": {"name": "Termux Theme", "cmd": "git clone https://github.com/CabbageCanFly/termux-ohmyzsh"},
+  "06": {"name": "DDOS Attack", "cmd": "git clone https://github.com/cyweb/hammer"},
+  "09": {"name": "Ip Info", "cmd": "curl ipinfo.io"},
+  "10": {"name": "dorks-eye", "cmd": "git clone https://github.com/BullsEye0/dorks-eye"},
+  "12": {"name": "RED_HAWK", "cmd": "git clone https://github.com/Tuhinshubhra/RED_HAWK"},
+  "16": {"name": "Hack CCTV", "cmd": "pip install requests"},
+  "18": {"name": "Root-Termux", "cmd": "apt install proot -y && proot -0 -w ~ $SHELL"}
+}
